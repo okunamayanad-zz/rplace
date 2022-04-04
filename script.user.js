@@ -2,7 +2,7 @@
 // @name         R/Place Elraenn
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description   Elraenn R/Place eklentisi
+// @description  TR R/Place eklentisi
 // @author       okunamayanad
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
